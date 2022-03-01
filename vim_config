@@ -1,0 +1,15 @@
+"    Setting colours/visuals
+syntax on
+set showmatch
+set number
+colorscheme torte
+
+"    Setting Automactially handling of indentation
+set expandtab
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+
+"    Setting mouse / keyboard operations
+set mouse=a
+set backspace=2

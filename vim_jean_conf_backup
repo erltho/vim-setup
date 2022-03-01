@@ -1,0 +1,15 @@
+set mouse=
+set nu
+set hlsearch
+set hidden
+set wildmenu
+
+syn on
+hi CursorLineNr cterm=bold term=bold ctermfg=11 gui=bold guifg=Yellow
+let g:airline#extensions#tabline#enabled = 1
+set laststatus=2
+let g:airline_powerline_fonts=1
+let g:airline_theme='deus'
+
+"set expandtab
+"set softtabstop=2
